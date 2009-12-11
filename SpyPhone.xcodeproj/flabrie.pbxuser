@@ -1,0 +1,141 @@
+// !$*UTF8*$!
+{
+	03B6EFC910BB547600CF9139 /* gpl-2.0.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {865, 4485}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 3563}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SpyPhone */ = {
+		activeExec = 0;
+		executables = (
+			E432134E10D28A4F00ED374A /* SpyPhone */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = E432134E10D28A4F00ED374A /* SpyPhone */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SpyPhone */;
+		codeSenseManager = E432136810D28A5200ED374A /* Code sense */;
+		executables = (
+			E432134E10D28A4F00ED374A /* SpyPhone */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 282233423;
+			PBXWorkspaceStateSaveDate = 282233423;
+		};
+		perUserProjectItems = {
+			E432136C10D28B0700ED374A /* PBXTextBookmark */ = E432136C10D28B0700ED374A /* PBXTextBookmark */;
+			E432139B10D29B6500ED374A /* PBXTextBookmark */ = E432139B10D29B6500ED374A /* PBXTextBookmark */;
+		};
+		sourceControlManager = E432136710D28A5200ED374A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E432134E10D28A4F00ED374A /* SpyPhone */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SpyPhone;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	E432136710D28A5200ED374A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E432136810D28A5200ED374A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E432136C10D28B0700ED374A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 03B6EFC910BB547600CF9139 /* gpl-2.0.txt */;
+		name = "gpl-2.0.txt: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 3563;
+		vrLoc = 0;
+	};
+	E432139B10D29B6500ED374A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 03B6EFC910BB547600CF9139 /* gpl-2.0.txt */;
+		name = "gpl-2.0.txt: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 3563;
+		vrLoc = 0;
+	};
+}
