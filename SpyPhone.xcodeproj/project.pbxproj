@@ -523,6 +523,7 @@
 					"\"$(SRCROOT)\"",
 				);
 				PRODUCT_NAME = SpyPhone;
+				VERSION = 1.0;
 			};
 			name = Debug;
 		};
@@ -539,6 +540,7 @@
 					"\"$(SRCROOT)\"",
 				);
 				PRODUCT_NAME = SpyPhone;
+				VERSION = 1.0;
 			};
 			name = Release;
 		};
